@@ -14,4 +14,4 @@ for run
 ##### ./main -sqliteDBPath=/home/user/go/src/trivago/sqlite.db -inputFilePath=/home/user/go/src/trivago/delivery/hotels.csv -jsonFilePath=/home/user/go/src/trivago/utils/op.json -workers=10
 you can change env variable by your choice used 12factory
 
-# aslo added build for linux in directory builds if faild to create directory
+#### aslo added build for linux in directory builds if faild to build 
