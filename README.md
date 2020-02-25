@@ -9,7 +9,7 @@ https://medium.com/learnfazz/domain-driven-design-in-go-253155543bb1
 ## Library Used
 - go get github.com/mattn/go-sqlite3 used for sqlite3
 
-##Build and Installation
+## Build and Installation
 1. make build #for build binary
 2.  ./main -sqliteDBPath=/home/user/go/src/trivago/sqlite.db -inputFilePath=/home/user/go/src/trivago/delivery/hotels.csv -jsonFilePath=/home/user/go/src/trivago/utils/op.json -workers=10
 
